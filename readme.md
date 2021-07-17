@@ -58,4 +58,4 @@ scores actually be playable.
 
 ### Download
 
-##### TODO
+[TemTunes Player V1.0](https://github.com/mculig/TemTunesPlayer/releases/download/V1.0/Release.zip)
