@@ -27,7 +27,7 @@ corner will show the status "Download complete"
 ##### Step 2: Play the tune
 
 Make sure you're logged into the game and have your Piano at the ready. Once you are ready, press the play button and switch back to Temtem. 
-TemTunes Player tunes start playing **after a delay of 3 seconds.** This delay server to ensure you are ready and Temtem is your focused application.
+TemTunes Player tunes start playing **after a delay of 3 seconds.** This delay serves to ensure you are ready and Temtem is your focused application.
 You will know the player has started playing when the info label in the bottom right corner shows the status "Playing"
 
 ##### Stopping a tune
